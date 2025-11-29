@@ -39,9 +39,9 @@
 
 ### Individual Farmers
 - **Free:** 10 breed IDs + 5 diagnoses/month
-- **Basic:** ₹49/month - Unlimited use
-- **Premium:** ₹99/month - 10 cattle profiles + analytics
-- **Pro:** ₹199/month - 50 cattle + vet booking + marketplace
+- **Basic:** ₹99/month - Unlimited use
+- **Premium:** ₹199/month - 10 cattle profiles + analytics
+- **Pro:** ₹299/month - 50 cattle + vet booking + marketplace
 
 ### B2B
 - **Vet Clinics:** ₹2,999/month
