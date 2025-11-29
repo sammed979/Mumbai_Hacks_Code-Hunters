@@ -1,0 +1,16 @@
+{"case_id": "test1", "timestamp": "2025-11-24T08:12:38.524258", "rating": 5, "actual_diagnosis": "Pneumonia"}
+{"case_id": "20251124_081400", "timestamp": "2025-11-24T08:14:28.168619", "rating": 5, "actual_diagnosis": null, "predicted_disease": null}
+{"case_id": "20251124_081400", "timestamp": "2025-11-24T08:14:33.110704", "rating": 5, "actual_diagnosis": null, "predicted_disease": null}
+{"case_id": "20251124_081400", "timestamp": "2025-11-24T08:15:01.016008", "rating": 5, "actual_diagnosis": "its respiratory infection", "predicted_disease": null}
+{"case_id": "20251129_035738", "timestamp": "2025-11-29T03:57:54.118841", "rating": 5, "actual_diagnosis": null, "predicted_disease": null}
+{"case_id": "20251129_035738", "timestamp": "2025-11-29T03:58:04.083912", "rating": 5, "actual_diagnosis": "fever", "predicted_disease": null}
+{"case_id": "20251129_045218", "timestamp": "2025-11-29T04:52:52.631621", "rating": 5, "actual_diagnosis": null, "predicted_disease": null}
+{"case_id": "20251129_045218", "timestamp": "2025-11-29T04:53:05.935345", "rating": 5, "actual_diagnosis": "fever", "predicted_disease": null}
+{"case_id": "20251129_095323", "timestamp": "2025-11-29T09:53:57.785292", "rating": 5, "actual_diagnosis": null, "predicted_disease": null}
+{"case_id": "20251129_095323", "timestamp": "2025-11-29T09:54:14.547703", "rating": 5, "actual_diagnosis": "digestive issue", "predicted_disease": null}
+{"case_id": "20251129_100517", "timestamp": "2025-11-29T10:05:23.981595", "rating": 5, "actual_diagnosis": null, "predicted_disease": null}
+{"case_id": "20251129_100517", "timestamp": "2025-11-29T10:05:45.535664", "rating": 5, "actual_diagnosis": "respiratory issue", "predicted_disease": null}
+{"case_id": "20251129_103134", "timestamp": "2025-11-29T10:31:48.344949", "rating": 5, "actual_diagnosis": null, "predicted_disease": null}
+{"case_id": "20251129_103134", "timestamp": "2025-11-29T10:32:06.811470", "rating": 5, "actual_diagnosis": "its same as vet", "predicted_disease": null}
+{"case_id": "20251129_103359", "timestamp": "2025-11-29T10:34:07.097128", "rating": 5, "actual_diagnosis": null, "predicted_disease": null}
+{"case_id": "20251129_103359", "timestamp": "2025-11-29T10:34:24.399562", "rating": 5, "actual_diagnosis": "same as veterian", "predicted_disease": null}

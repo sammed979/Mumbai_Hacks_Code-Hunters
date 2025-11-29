@@ -1,0 +1,87 @@
+{
+  "symptom_disease_map": {
+    "cough+fever": {
+      "Respiratory Infection": 2
+    },
+    "appetite+fever": {
+      "Unable to determine specific issue": 1
+    },
+    "appetite+cough+fever": {
+      "Mild Respiratory Issue": 6
+    },
+    "appetite+digestive_issue+fever": {
+      "Digestive Infection (possible Enteritis)": 1
+    },
+    "appetite+fever+weakness": {
+      "General Weakness or Nutritional Deficiency": 2
+    }
+  },
+  "accuracy_scores": {
+    "Pneumonia": {
+      "correct": 1,
+      "total": 1
+    },
+    "its respiratory infection": {
+      "correct": 1,
+      "total": 1
+    },
+    "fever": {
+      "correct": 2,
+      "total": 2
+    },
+    "digestive issue": {
+      "correct": 1,
+      "total": 1
+    },
+    "respiratory issue": {
+      "correct": 1,
+      "total": 1
+    },
+    "its same as vet": {
+      "correct": 1,
+      "total": 1
+    },
+    "same as veterian": {
+      "correct": 1,
+      "total": 1
+    }
+  },
+  "common_patterns": [
+    {
+      "pattern": "cough+fever",
+      "count": 2,
+      "diseases": [
+        "Respiratory Infection"
+      ]
+    },
+    {
+      "pattern": "appetite+fever",
+      "count": 1,
+      "diseases": [
+        "Unable to determine specific issue"
+      ]
+    },
+    {
+      "pattern": "appetite+cough+fever",
+      "count": 6,
+      "diseases": [
+        "Mild Respiratory Issue"
+      ]
+    },
+    {
+      "pattern": "appetite+digestive_issue+fever",
+      "count": 1,
+      "diseases": [
+        "Digestive Infection (possible Enteritis)"
+      ]
+    },
+    {
+      "pattern": "appetite+fever+weakness",
+      "count": 2,
+      "diseases": [
+        "General Weakness or Nutritional Deficiency"
+      ]
+    }
+  ],
+  "question_effectiveness": {}
+}
